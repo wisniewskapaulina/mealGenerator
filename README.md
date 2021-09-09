@@ -1,1 +1,1 @@
-See LIVE https://wisniewskapaulina.github.io/mealGenerator/
+LIVE https://wisniewskapaulina.github.io/mealGenerator/
